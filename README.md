@@ -12,7 +12,7 @@ I'm a Robotic Process Automation (RPA) developer passionate about automating tas
 
 🔭 **I'm currently working on**: Building automation solutions for various use cases
 
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/) | [Twitter](https://twitter.com/)
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/nguyen-hieu-637736268/)
 
 ⚡ **Fun fact**: I love exploring new automation tools and technologies!
 
