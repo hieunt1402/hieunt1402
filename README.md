@@ -20,10 +20,10 @@ I'm a Robotic Process Automation (RPA) developer passionate about automating tas
 
 ### Skills
 
-- RPA Tools: UiPath, Power Automate 
-- Programming Languages: Python, Java, JS
-- Databases: MySQL
-- Framework: Django, Robot Framework, ReactJS, GAS
+- Automation & RPA Tools: UiPath, Power Automate, n8n
+- Programming Languages: Python, JavaScript
+- Databases: MySQL, PostgreSQL
+- Frameworks & Libraries: Django, Robot Framework, Google Apps Script (GAS)
 
 ### Projects
 
